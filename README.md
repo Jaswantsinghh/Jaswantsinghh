@@ -1,4 +1,4 @@
-![Cover Pic](/Readme-img.png "Cover Image")
+![Cover Pic](/readme-pic.png "Cover Image")
 ### Hola Developers 👋
 
 - 🔭 I’m currently working on Tally Counter Web App.
