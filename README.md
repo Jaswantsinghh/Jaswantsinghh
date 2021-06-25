@@ -1,7 +1,7 @@
 ![MasterHead](/img/MasterHead.png "Master Head")
 ### Hola Developers 👋
 
-- 🔭 I’m currently working on Tally Counter Web App.
+- 🔭 I’m currently working on Text Compression Web App.
 - 🌱 I’m currently learning Advanced Javascript.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with UI/UX designing.
